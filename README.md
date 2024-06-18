@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-61DBFB?style=for-the-badge&labelColor=black&logo=machinelearning&logoColor=61DBFB)
 ![Flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)
-![GCP](https://img.shields.io/badge/Google_Cloud_Platform-000000?style=for-the-badge&logo=googlecloudplatform&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud_Platform-000000?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-3C873A?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=3C873A)
 ![SQL](https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=SQL&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF4154?style=for-the-badge&logo=DL&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-092749?style=for-the-badge&logo=amazonwebservices&logoColor=06B6D4&labelColor=000000)
 
 
 <br/>
